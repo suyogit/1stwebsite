@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>
+		login to website
+	</title>
+</head>
+<body bgcolor=" #d6b395" alink="black" vlink="green" link="blue" font="high tower text">
+	<hr size="4" width="750" align="center"><center>
+<marquee dirction="right" behavior=slide scrollamount="12" loop="infinite" bgcolor="white" width="50%" height="30" >
+	<font size="5" font color="black"> Registration Form </font></marquee><hr size="4" width="750" align="center"></center>
+
+Please fill the form for quick login:-
+<form class ="contact-form" action="contactform.php" method="post" >
+	<ol type="I">
+	<pre>                                                                                                                                                      <input type="text" name="Search"  placeholder="Search" >	</pre>
+<li> First name:<input type="text"  name="firstname" maxlength="28" size="30" placeholder="FIRST NAME"    
+	        required  minlength="2"></li><br>
+<li> Last name:<input type="text"  name="Lastname" maxlength="20" size="30" placeholder="LAST NAME" required="" minlength="2"></li><br>
+<li>Birthdate: 
+	Year:<select size="1">
+		<option>2004</option>
+		<option>2003</option>
+<option >2002</option>
+
+<option>2001</option>
+<option>2000</option>
+<option>1999</option>
+<option>1998</option>
+
+<option>1997</option>
+	</select>
+	Month:<select size="1">
+		<option>Jannuary</option>
+		<option>February</option>
+		<option>March</option>
+		<option>April</option>
+		<option>May</option>
+		<option>June</option>
+		<option>July</option>
+		<option>August</option>
+		<option>September</option>
+		<option>October</option>
+		<option>November</option>
+		<option>December</option>
+		
+	</select>
+		Day:<select size="1" id="daySelect">
+			<option>1</option><option>2</option><option>3</option><option>4</option><option>5</option><option>6</option><option>7</option><option>8</option><option>9</option><option>10</option><option>11</option><option>12</option><option>13</option><option>14</option><option>15</option><option>16</option><option>17</option><option>18</option><option>19</option><option>20</option><option>21</option><option>22</option><option>23</option><option>24</option><option>25</option><option>26</option><option>27</option><option>28</option><option>29</option><option>30</option><option>31</option><option>32</option>
+			<!-- <script type="text/javascript">
+				let dayPart;
+				for(i=1; i<=32; i++){
+					let option = document.createElement('option');
+					dayPart = document.createTextNode(i);
+					option.appendChild(dayPart);
+					document.querySelector('#daySelect').appendChild(option);
+				}
+				
+			</script> -->
+		</select>
+	</li><br><br>
+
+<li> E-mail  ID  :<input type="text" name="Email"   maxlength="20" size="30" value="@gmail.com" required pattern="A-Za-z0-9@./\" ></li>  <br>
+<li> Password  :<input type="password" name="password"  maxlength="20" size="30" minlength="8" placeholder="Password" required="" > </li><br>
+<li> Country    : <input type="text" name="Country" id="Country" value="Nepal" readonly= "true" size="30" ></li> 
+
+
+	<br>
+	  
+	
+<li>Maritual status:<input type="radio" name="r1"checked="true" >Married
+		<input type="radio" name="r1"  >Unmarried</li>
+
+	
+	<br><br>
+
+	<li>Gender: <input type="radio" name="r2" checked="true"  >Boy
+		<input type="radio" name="r2"  >Girl
+		<input type="radio" name="r2"  >Gay
+		</li>
+
+		<br><br>
+		<li>Programming Language that you know:<br>
+		<input type="checkbox" name="c1" checked="true">PHP<br>
+		<input type="checkbox"  name="c2" >JAVA<br >
+		<input type="checkbox" name="c2" >C++<br><br></li>
+		<li> About you: <textarea rows="5" cols="50" name="About"  minlength="10" placeholder="Type something about you......" required=""></textarea >
+</li><br>
+<li>Is your information correct?:<input type="button" name="Yes" value="Yes" >  <input type="button" name="No" value="NO"></li><br></ol>
+	<br>
+	Reset: <input type="reset" name="reset" value="clear">
+	Submit:<input type="submit" name="submit" value="send" height="26" width="100"><br><br>
+	
+		Note:<br>
+
+<dl>
+		<dt>You must have following Qualities:-
+			<dd>Knowledge on codding.</dd>
+			<dd>Interest on codding.</dd></dt>
+
+
+
+	</dl>
+<ul type="circle"> 
+
+	Your health must be :-
+
+
+<li>Fine</li>
+<li>Hygenic </li>
+
+
+</ul>
+<center>  <a href="#daySelect">  Go to top</a></center>
+
+<span>&ddagger;</span>
+
+</form>
+</body>
+</html>

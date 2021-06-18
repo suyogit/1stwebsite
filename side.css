@@ -1,0 +1,67 @@
+*{
+	margin:0px;
+	padding: 0px;
+}
+
+#sidebar {
+color: none;
+	position: fixed;
+	width: 20%;
+	height: 100%;
+	right: -20%;
+	background-color: #330000 ;
+	transition: all 600ms linear;
+}
+#sidebar ul li  {  
+	list-style: none;
+	text-decoration:none;
+	font-size: 25px;
+	padding: 40px 20px;
+	text-align: center;
+
+}
+
+
+
+
+
+#sidebar ul li a { 
+text-decoration: none;
+font-family: sans-serif;
+
+}
+#sidebar .toggle-btn{
+	position: absolute;
+	right: 104%;
+	top:20px;
+
+}
+#sidebar .toggle-btn span {
+	display: block;
+	background-color: white;
+	width: 38px;
+	height: 6px;
+	margin:4px;
+
+}
+#sidebar.active{
+	right: 0px;
+}
+#sidebar ul li a:hover
+		{
+			
+			transition: background-color 0.4s ease-in-out;
+			background-color:#ccffff;
+				border-bottom: 2px solid red;
+               font-size: 108%;
+				}
+
+#sidebar .toggle-btn :hover {
+	transition: 0.5s ease-in;
+	background-color:red;
+	transform: rotate(360deg);
+
+}
+#sidebar ul li a:hover{
+	transform: rotateY(360deg);
+}

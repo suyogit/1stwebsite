@@ -1,0 +1,609 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"m",
+				"m6"
+			],
+			[
+				"bo",
+				"box"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"drop",
+				"dropdown-content"
+			],
+			[
+				"dr",
+				"dropdown-button"
+			],
+			[
+				"a",
+				"avatar"
+			],
+			[
+				"cl",
+				"collection-item"
+			],
+			[
+				"wi",
+				"with-header"
+			],
+			[
+				"co",
+				"collection-item"
+			],
+			[
+				"bl",
+				"black-text"
+			],
+			[
+				"re",
+				"red-text"
+			],
+			[
+				"w",
+				"waves-light"
+			],
+			[
+				"wa",
+				"waves-effect"
+			],
+			[
+				"te",
+				"red-text"
+			],
+			[
+				"bt",
+				"btn-large"
+			],
+			[
+				"e",
+				"waves-effect"
+			],
+			[
+				"b",
+				"btn-floating"
+			],
+			[
+				"p",
+				"pulse"
+			],
+			[
+				"mate",
+				"material-icons"
+			],
+			[
+				"btn",
+				"btn-floating"
+			],
+			[
+				"fl",
+				"FLOW"
+			],
+			[
+				"l",
+				"livereload_plugin\tCreate new LiveReload plugin"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"E",
+				"E-mailFrom"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"A",
+				"A-Za-z0-9"
+			],
+			[
+				"min",
+				"minlength\tAttr"
+			],
+			[
+				"mi",
+				"minlength\tAttr"
+			],
+			[
+				"ro",
+				"rotate()\ttransform"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"text-da",
+				"text-dark"
+			],
+			[
+				"text-w",
+				"text-warning"
+			],
+			[
+				"text-s",
+				"text-success"
+			],
+			[
+				"float-",
+				"float-left"
+			],
+			[
+				"d",
+				"d-inline"
+			],
+			[
+				"bg",
+				"btn-danger"
+			],
+			[
+				"fo",
+				"font-weight-bold"
+			],
+			[
+				"dis",
+				"display-1"
+			],
+			[
+				"lo",
+				"login"
+			],
+			[
+				"s",
+				"solid"
+			],
+			[
+				"r",
+				"rotate()\ttransform"
+			],
+			[
+				"trr",
+				"transform\tproperty"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"tee",
+				"text-decoration\tproperty"
+			],
+			[
+				"tog",
+				"togglemenu"
+			],
+			[
+				"onclic",
+				"onclick\tAttr"
+			],
+			[
+				"ba",
+				"background\tproperty"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"ma",
+				"margin-top\tproperty"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"mar",
+				"margin-right\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"padd",
+				"padding-bottom\tproperty"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"tra",
+				"transition-delay\tproperty"
+			],
+			[
+				"text-d",
+				"text-decoration\tproperty"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"paddin",
+				"padding-left\tproperty"
+			],
+			[
+				"paddi",
+				"padding-left\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"day",
+				"dayPart"
+			],
+			[
+				"va",
+				"var"
+			],
+			[
+				"fi",
+				"firstname"
+			],
+			[
+				"fr",
+				"frame\tTag"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"ch",
+				"checked"
+			],
+			[
+				"t",
+				"true"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"ar",
+				"area\tTag"
+			],
+			[
+				"em",
+				"embed\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"sa",
+				"shadow\tTag"
+			],
+			[
+				"su",
+				"sup\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"o",
+				"ol\tTag"
+			],
+			[
+				"ca",
+				"caption\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"LiveReload: Enable/disable plugins ",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"Package Control: li",
+				"Package Control: List Packages"
+			],
+			[
+				"re",
+				"Rename File"
+			],
+			[
+				"install",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/user/Desktop/building websites/sampleproject.html",
+		"/D/cources/Materialize Css/materialize_sandbox_starter/3_1_cards.html",
+		"/D/cources/Materialize Css/materialize_sandbox_starter/2_7_grid.html",
+		"/D/cources/Materialize Css/materialize_sandbox_starter/2_6_collections.html",
+		"/D/cources/Materialize Css/materialize_sandbox_starter/2_4_floating.html",
+		"/D/cources/Materialize Css/materialize_sandbox_starter/2_3_buttons_icons.html",
+		"/D/cources/Materialize Css/materialize_sandbox_starter/css/materialize.min.css",
+		"/C/Users/user/Desktop/building websites/intro.html",
+		"/C/Users/user/Desktop/building websites/side.css",
+		"/D/cources/Materialize Css/materialize_sandbox/css/style.css",
+		"/D/cources/Materialize Css/materialize_sandbox/3_7_preloaders.html",
+		"/D/cources/Materialize Css/materialize_sandbox_starter/2_2_colors.html",
+		"/D/cources/Materialize Css/materialize_sandbox_starter/2_1_typography.html",
+		"/D/Bootstrap/Bootstrap 4 with 5 projects/bootstrap_sandbox_starter/4_2_grid_system.html",
+		"/C/Users/user/Desktop/js/main.js",
+		"/C/Users/user/Desktop/js/hello woorld java.html",
+		"/D/hello.php",
+		"/C/Users/user/Desktop/my assiagnments/bootstrap_sandbox_final/2_8_breakpoints.html",
+		"/C/Users/user/Desktop/building websites/mystyle.css",
+		"/C/Users/user/Desktop/building websites/sidebar.html",
+		"/E/New folder (2)/index.html/index.html",
+		"/C/Users/user/Desktop/building websites/contactform.php",
+		"/C/Users/user/Desktop/building websites/finallogo.gif",
+		"/C/Users/user/Desktop/my assiagnments/bootstrap_sandbox_starter/2_8_breakpoints.html",
+		"/C/Users/user/Desktop/my assiagnments/bootstrap_sandbox_starter/2_7_sizing.html",
+		"/C/Users/user/Desktop/my assiagnments/bootstrap_sandbox_starter/2_6_spacing.html",
+		"/C/Users/user/Desktop/my assiagnments/bootstrap_sandbox_starter/2_5_colors_background.html",
+		"/C/Users/user/Desktop/my assiagnments/bootstrap_sandbox_starter/2_4_floats_position.html",
+		"/C/Users/user/Desktop/my assiagnments/bootstrap_sandbox_starter/2_3_text_alignment_display.html",
+		"/C/Users/user/Desktop/my assiagnments/bootstrap_sandbox_starter/2_2_basic_typography.html",
+		"/D/cources/Bootstrap 4 with 5 projects/01 Intro  Getting Started/005 bootstrap-sandbox-starter",
+		"/D/cources/Bootstrap 4 with 5 projects/01 Intro  Getting Started/005 bootstrap-sandbox-starter.html",
+		"/C/Users/user/Desktop/my assiagnments/intro.html",
+		"/D/cources/Bootstrap 4 with 5 projects/01 Intro  Getting Started/005 bootstrap-sandbox-starter.zip",
+		"/C/Users/user/Desktop/my assiagnments/ex22,23.html",
+		"/C/Users/user/Desktop/building websites/login.css",
+		"/C/Users/user/Desktop/building websites/login.html",
+		"/C/Users/user/Desktop/building websites/hello.css",
+		"/C/Users/user/Desktop/building websites/hello.html",
+		"/C/Users/user/Desktop/building websites/.html",
+		"/C/Users/user/Desktop/my assiagnments/sampleproject.html",
+		"/C/Users/user/Desktop/my assiagnments/mystyle.css",
+		"/C/Users/user/Desktop/my assiagnments/styled.css",
+		"/C/Users/user/Desktop/my assiagnments/practise 2.html",
+		"/C/Users/user/Desktop/my assiagnments/styles.css",
+		"/C/Users/user/Desktop/my assiagnments/practiswe1.html",
+		"/C/Users/user/Desktop/index.html",
+		"/C/Users/user/Desktop/my assiagnments/style.css",
+		"/C/Users/user/Desktop/my assiagnments/30 days.html",
+		"/C/Users/user/Desktop/my assiagnments/ex9,10,11,12.html",
+		"/C/Users/user/Desktop/my assiagnments/ex16,17.html",
+		"/C/Users/user/Desktop/blogpost/style.css",
+		"/C/Users/user/Desktop/blogpost/suyog.html",
+		"/C/Users/user/Desktop/my assiagnments/lohinform.hyml.html",
+		"/C/Users/user/Desktop/my assiagnments/ex8 and some tags.html",
+		"/C/Users/user/Desktop/my assiagnments/ex24,27,32.html",
+		"/C/Users/user/Desktop/my assiagnments/ex25,26.html",
+		"/C/Users/user/Desktop/my assiagnments/ex28,29,30.html",
+		"/C/Users/user/Desktop/my assiagnments/ex31.html",
+		"/C/Users/user/Desktop/my assiagnments/ex35.html",
+		"/C/Users/user/Desktop/my assiagnments/ex34.html",
+		"/C/Users/user/Desktop/my assiagnments/ex33.html",
+		"/C/Users/user/Desktop/my assiagnments/ex24,27.html",
+		"/C/Users/user/Desktop/my assiagnments/ex22.html",
+		"/C/Users/user/Desktop/my assiagnments/ex19,20,21.html",
+		"/C/Users/user/Desktop/my assiagnments/ex18.html",
+		"/C/Users/user/Desktop/my assiagnments/ex16,17,18.html",
+		"/C/Users/user/Desktop/my assiagnments/table.html",
+		"/C/Users/user/Desktop/my assiagnments/ex14.html",
+		"/C/Users/user/Desktop/my assiagnments/ex13.html",
+		"/C/Users/user/Desktop/my assiagnments/ex5&6.html",
+		"/C/Users/user/Desktop/my assiagnments/ex8&some tags",
+		"/C/Users/user/Desktop/my assiagnments/ex7.html",
+		"/C/Users/user/Desktop/my assiagnments/ex5.html",
+		"/C/Users/user/Desktop/my assiagnments/ex3",
+		"/C/Users/user/Desktop/my assiagnments/ex1.html",
+		"/C/Users/user/Desktop/my assiagnments/ex4.html",
+		"/C/Users/user/Desktop/my assiagnments/ex3.html",
+		"/C/Users/user/Desktop/my assiagnments/ex 2.htm",
+		"/C/Users/user/Desktop/table.html",
+		"/C/Users/user/Desktop/my assiagnments/ex.html",
+		"/C/Users/user/Desktop/biggest project/resource/css/style.css",
+		"/C/Users/user/Desktop/biggest project/index.html",
+		"/C/Users/user/Desktop/style.css",
+		"/C/Users/user/Desktop/suyog.html",
+		"/C/Users/user/Desktop/suyoghh.html",
+		"/C/Users/user/Desktop/suyog.py",
+		"/C/Users/user/Desktop/subline.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sampleproject.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 168.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
